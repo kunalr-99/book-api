@@ -66,3 +66,13 @@ module.exports = {
   books,
   authors,
 };
+
+/*
+
+User registration
+field validation
+password encryption
+cookie generation
+password edit
+
+*/
