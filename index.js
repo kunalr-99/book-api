@@ -2,7 +2,7 @@
 const express = require("express");
 const mongoose = require("mongoose");
 const User = require("./models/User");
-const users = require("./controllers/User");
+const users = require("./routes/User");
 const books = require("./routes/Book");
 
 // Create instance of express (enable express)
